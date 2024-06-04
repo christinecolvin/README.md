@@ -40,6 +40,6 @@
 
 <br>
 
-## 📱 Let's Connect
+## 🫂 Connect with me
 - <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> [LinkedIn](https://www.linkedin.com/in/christinecolvin/) 
-- 📫 How to reach me: christinegracecolvin@gmail.com
+- 📫 Where to reach me: christinegracecolvin@gmail.com
