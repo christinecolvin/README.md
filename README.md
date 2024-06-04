@@ -1,4 +1,4 @@
-# Hiya, I'm Christine Colvin!
+# Hiya, I'm Christine Colvin! 🍡
 <ul>
     <li>📖 Studying Computer Science at Moravian University</li>
     <li>💻 Currently interning at HoverTech International </li>
@@ -25,7 +25,7 @@
 
 
 
-## 📂 Familiar with..
+## 📂 Familiar with
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
